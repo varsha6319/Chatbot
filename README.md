@@ -1,5 +1,4 @@
-# Diabetes_predictor
-# Diabetes_predictor
-# Bag_files
-# Bag_files
+
 # Chatbot
+
+A Retrieval-based model chatbot by using the dialogues from ubuntu corpus
